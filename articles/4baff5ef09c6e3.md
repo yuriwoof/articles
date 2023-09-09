@@ -316,7 +316,7 @@ $ az deployment-scripts show --resource-group 'labbicep' --name 'CopyConfigScrip
 https://xxx.file.core.windows.net/config/appsettings.json
 ```
 
-![Azure ポータルよりデプロイ スクリプトの出力を確認](image.png)
+![Azure ポータルよりデプロイ スクリプトの出力を確認](/images/4baff5ef09c6e3/img.png)
 
 ## 制限
 

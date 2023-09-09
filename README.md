@@ -1,3 +1,5 @@
-# Zenn CLI
+# Articles
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+Add following articles in this repository.
+
+* [Zenn](https://zenn.dev/yurio)
