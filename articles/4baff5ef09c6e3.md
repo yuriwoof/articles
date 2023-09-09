@@ -3,7 +3,7 @@ title: "デプロイスクリプト"
 emoji: "🔧"
 type: "tech"
 topics: ["Azure", "Bicep", "Azure CLI", "Azure PowerShell"]
-published: false
+published: true
 ---
 
 # はじめに
