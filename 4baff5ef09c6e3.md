@@ -1,7 +1,7 @@
 ---
 title: "デプロイスクリプト"
 emoji: "🔧"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["Azure", "Bicep", "Azure CLI", "Azure PowerShell"]
 published: false
 ---
