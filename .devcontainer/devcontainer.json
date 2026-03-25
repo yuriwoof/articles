@@ -1,0 +1,23 @@
+{
+  "name": "Zenn Articles",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "postCreateCommand": "npm init -y && npm install zenn-cli@latest",
+  "forwardPorts": [8000],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "negokaz.zenn-editor"
+      ],
+      "settings": {
+        "editor.wordWrap": "on",
+        "editor.minimap.enabled": false,
+        "files.trimTrailingWhitespace": true,
+        "markdown.preview.breaks": true
+      }
+    }
+  }
+}
